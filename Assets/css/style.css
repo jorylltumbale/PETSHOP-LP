@@ -1520,21 +1520,6 @@ textarea.form-control {
     margin-bottom: 30px;
 }
 
-.carousel-item {
-    height: 32rem;
-    background-color: #343a40;
-    color: #ffffff;
-    position: relative;
-}
-
-#carousel {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding-bottom: 50px;
-}
-
 
 /*******************
     Responsive
