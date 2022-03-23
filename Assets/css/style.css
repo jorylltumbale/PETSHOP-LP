@@ -974,13 +974,8 @@ h6 {
     background-size: cover;
 }
 
-.home-slider {
-    padding: 160px 0px;
-}
-
-.home-carousel .carousel-item {
-    background-position: center !important;
-    background-size: cover !important;
+#qoute {
+    line-height: 3.5rem;
 }
 
 
@@ -1531,6 +1526,9 @@ textarea.form-control {
 }
 
 @media screen and (max-width: 768px) {
+    #qoute {
+        line-height: 2rem;
+    }
     .navbar-custom {
         padding: 10px 0px !important;
     }
